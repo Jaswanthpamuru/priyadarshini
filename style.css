@@ -340,8 +340,10 @@ nav>button{
     row-gap: 30px;
     column-gap: 60px;
 }
-.c-3 h3{
+.c-3 a{
     font-size: 1.1rem;
+    text-decoration: none;
+    color: #000;
 }
 .c-svg>svg{
     position: absolute;
